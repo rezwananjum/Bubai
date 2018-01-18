@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="anni_wish">
+        <item>msg1</item>
+        <item>msg2</item>
+        <item>msg3</item>
+        <item>msg4</item>
+        <item>msg5</item>
+    </string-array>
+
+
+    <string-array name="birth_wish">
+        <item>msg1</item>
+        <item>msg2</item>
+        <item>msg3</item>
+        <item>msg4</item>
+        <item>msg5</item>
+    </string-array>
+
+
+    <string-array name="brk_wish">
+        <item>msg1</item>
+        <item>msg2</item>
+        <item>msg3</item>
+        <item>msg4</item>
+        <item>msg5</item>
+    </string-array>
+
+
+    <string-array name="lv_wish">
+        <item>msg1</item>
+        <item>msg2</item>
+        <item>msg3</item>
+        <item>msg4</item>
+        <item>msg5</item>
+    </string-array>
+
+
+    <string-array name="mrg_wish">
+        <item>msg1</item>
+        <item>msg2</item>
+        <item>msg3</item>
+        <item>msg4</item>
+        <item>msg5</item>
+    </string-array>
+</resources>

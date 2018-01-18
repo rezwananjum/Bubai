@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.company.aplasmid.bubai.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/anniwish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Annivarsary wish"/>
+
+        <Button
+            android:id="@+id/lvwish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Love wish"/>
+
+        <Button
+            android:id="@+id/brthwish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Birthday wish"/>
+
+        <Button
+            android:id="@+id/brkwish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Breakup wish"/>
+
+        <Button
+            android:id="@+id/mrgwish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Marriage wish"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.company.aplasmid.bubai">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Bubai_anni_wish_home">
+
+        </activity>
+        <activity android:name=".Bubai_birthday_wish_home">
+
+        </activity>
+        <activity android:name=".Bubai_breakup_wish_home">
+
+        </activity>
+        <activity android:name=".Bubai_create_own">
+
+        </activity>
+        <activity android:name=".bubai_date_picker">
+
+        </activity>
+        <activity android:name=".Bubai_list_item">
+
+        </activity>
+        <activity android:name=".Bubai_love_wish_home">
+
+        </activity>
+        <activity android:name=".Bubai_marriage_wish_home">
+
+        </activity>
+        <activity android:name=".Bubai_number_set">
+
+        </activity>
+        <activity android:name=".Bubai_text_editor">
+
+        </activity>
+        <activity android:name=".bubai_time_picker">
+
+        </activity>
+
+
+
+    </application>
+
+</manifest>
